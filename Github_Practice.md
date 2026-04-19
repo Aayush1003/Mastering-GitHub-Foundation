@@ -10,6 +10,7 @@
 
 ## Instructions
 
+
 - This practice paper contains **112 multiple-choice questions** covering all domains of the GitHub Foundation certification
 - Each question has **4 options (A-D)** with a single correct answer
 - **Difficulty indicators:** ⭐ (Easy) • ⭐⭐ (Medium) • ⭐⭐⭐ (Hard)
